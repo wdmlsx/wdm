@@ -16,3 +16,6 @@ changed by dev branch forth time.
 changed by dev branch fifth time.
 
 changed by dev branch sixth time for test git stash.
+
+
+added by lsx first time.
